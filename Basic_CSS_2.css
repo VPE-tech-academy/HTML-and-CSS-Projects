@@ -1,0 +1,16 @@
+h1 {
+	text-shadow: 2px 2px 4px gray; -2px -2px -4px silver;
+	}
+p {
+	color: white;
+	background: black;
+	font-size: medium;
+	font-style: bold;
+	text-align: left;
+	}
+ol {
+	background: gray;
+	}
+ul {
+	background: gray;
+	}
